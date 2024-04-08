@@ -13,7 +13,7 @@ download-file = "k3d-darwin-{arch}"
 checksum-file = "checksums.txt"
 
 [platform.windows]
-download-file = "k3d-windows-{arch}.exe"
+download-file = "k3d-windows-{arch}.exeaaa"
 checksum-file = "checksums.txt"
 
 [install]
